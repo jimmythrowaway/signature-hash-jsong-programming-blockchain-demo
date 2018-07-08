@@ -1,4 +1,5 @@
 from unittest import TestCase
+from helper import SIGHASH_ALL
 from ipynb.fs.full.index import *
 
 class TxTest(TestCase):
